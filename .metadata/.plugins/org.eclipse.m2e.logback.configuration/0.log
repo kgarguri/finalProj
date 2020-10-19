@@ -1,0 +1,52 @@
+2020-10-19 18:19:18,623 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-19 18:22:45,074 [Worker-7: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project guest_model2_spring already exists
+2020-10-19 18:22:45,081 [Worker-7: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project guest_model2_spring already exists
+2020-10-19 18:22:46,770 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.itwill:guest_model2_spring:1.0.0-BUILD-SNAPSHOT @ C:\JAVA_PYTHON\work-spring\guest_model2_spring\pom.xml.
+2020-10-19 18:22:47,056 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.itwill:user_spring:1.0.0-BUILD-SNAPSHOT @ C:\JAVA_PYTHON\work-spring\user_spring\pom.xml.
+2020-10-19 18:22:47,248 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.itwill:springMavenWeb:1.0.0-BUILD-SNAPSHOT @ C:\JAVA_PYTHON\work-spring\springMavenWeb\pom.xml.
+2020-10-19 18:22:47,372 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples.spring:spring-utility:1.0.0.CI-SNAPSHOT @ C:\JAVA_PYTHON\work-spring\springMavenApp\pom.xml.
+2020-10-19 18:22:47,985 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.itwill0.context:springMavenApp:0.0.1-SNAPSHOT @ C:\JAVA_PYTHON\work-spring\springMavenBootApp\pom.xml.
+2020-10-19 18:22:53,567 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /guest_model2_spring/src/main/java
+2020-10-19 18:22:53,568 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /guest_model2_spring/src/main/resources
+2020-10-19 18:22:53,569 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /guest_model2_spring/src/test/java
+2020-10-19 18:22:53,570 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /guest_model2_spring/src/test/resources
+2020-10-19 18:22:58,148 [Worker-7: Importing Maven projects] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine source level, using default 1.5
+2020-10-19 18:22:58,156 [Worker-7: Importing Maven projects] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine target level, using default 1.5
+2020-10-19 18:22:58,167 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /user_spring/src/main/java
+2020-10-19 18:22:58,167 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /user_spring/src/main/resources
+2020-10-19 18:22:58,168 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /user_spring/src/test/java
+2020-10-19 18:22:58,168 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /user_spring/src/test/resources
+2020-10-19 18:22:58,876 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springMavenWeb/src/main/java
+2020-10-19 18:22:58,876 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springMavenWeb/src/main/resources
+2020-10-19 18:22:58,877 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springMavenWeb/src/test/java
+2020-10-19 18:22:58,877 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springMavenWeb/src/test/resources
+2020-10-19 18:22:59,310 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-utility/src/main/java
+2020-10-19 18:22:59,310 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-utility/src/main/resources
+2020-10-19 18:22:59,311 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-utility/src/test/java
+2020-10-19 18:22:59,312 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-utility/src/test/resources
+2020-10-19 18:22:59,511 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springMavenApp/src/main/java
+2020-10-19 18:22:59,511 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springMavenApp/src/main/resources
+2020-10-19 18:22:59,512 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springMavenApp/src/main/resources
+2020-10-19 18:22:59,512 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springMavenApp/src/test/java
+2020-10-19 18:22:59,654 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 7 project(s) in 14 sec
+2020-10-19 18:23:04,894 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-19 18:23:04,915 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-19 18:23:04,950 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-19 18:23:04,957 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-19 18:23:06,238 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-19 18:23:06,245 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-19 18:23:06,254 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-19 18:23:06,262 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-10-19 18:23:06,989 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 18:23:06,989 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-19 18:23:06,998 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-19 18:23:07,000 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-19 18:23:07,001 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\JAVA_PYTHON\work-spring\springMavenBootApp\src\test\resources
+2020-10-19 18:23:13,662 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-19 18:23:13,668 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-10-19 18:23:13,718 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-19 18:23:13,723 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-19 18:23:14,233 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-19 18:23:14,239 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-10-19 18:23:14,272 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-19 18:23:14,278 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
